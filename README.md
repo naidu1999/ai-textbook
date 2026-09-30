@@ -1,3 +1,5 @@
+🚀 **Live site:** https://naidu1999.github.io/ai-textbook/
+
 # The AI Mastery Textbook
 
 From `print("Hello")` to LLMs and Agentic AI - 23 chapters, 100+ diagrams, exercises and mastery tests.
